@@ -17,7 +17,7 @@ server_running = [False] * len(config_yaml_contents["java"])
 Here, we create a new array named `server_running`, which is an array of False, with the length of the amount of servers that are read from the yaml file. Server running is used to determine whether or not a server is running by the bot.
 
 ```python
-server_processes = [None] \* len(config_yaml_contents["java"])
+server_processes = [None] * len(config_yaml_contents["java"])
 
 ```
 
