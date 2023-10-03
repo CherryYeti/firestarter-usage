@@ -22,7 +22,7 @@ run.bat
 Download the code from the button at the top of the page or by using the terminal command
 
 ```bash
-git clone https://github.com/CherryYeti/FireStarter-Python
+git clone https://github.com/CherryYeti/FireStarter
 ```
 
 Mark all scripts in the directory as executable and run the setup.sh
